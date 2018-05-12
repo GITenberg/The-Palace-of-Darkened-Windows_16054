@@ -1,0 +1,35 @@
+_repo: The-Palace-of-Darkened-Windows_16054
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Frederick, Edmund
+    alias: Frederick, E. (Edmund)
+    birthdate: 1870
+    gutenberg_agent_id: '6450'
+    url: http://www.gutenberg.org/2009/agents/6450
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bradley, Mary Hastings
+    alias: Hastings, Mary Bradley
+    birthdate: 1882
+    deathdate: 1976
+    gutenberg_agent_id: '5091'
+    url: http://www.gutenberg.org/2009/agents/5091
+description: ''
+gutenberg_issued: '2005-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16054'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Egypt -- Fiction'
+- !lcsh 'Harems -- Fiction'
+title: The Palace of Darkened Windows
+url: http://www.gutenberg.org/ebooks/16054
